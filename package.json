@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cf-deployment-tracker-client": "0.0.8",
-    "express": "^3.11.0",
+    "cf-deployment-tracker-client": "0.1.4",
+    "express": "^3.21.2",
     "ibm_db": "^2.7.1",
     "jade": "1.11.0"
   }
